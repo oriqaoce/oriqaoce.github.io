@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oriqaoce.github.io/sitemap_index.oriqaoce
